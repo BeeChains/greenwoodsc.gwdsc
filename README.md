@@ -1,2 +1,2 @@
 # greenwoodsc.gwdsc
-get Your Names on .gwdsc/
+Hell Greenwood City and County buissness, get Your Names on .gwdsc/ now!!!
