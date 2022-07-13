@@ -3,6 +3,8 @@
 | [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) 
 
 # Hello City and County buissnesses of Greenwood, South Carolina! 
+Local buisness starts with local reinvestmensts in and of itself!
+# Support Local Roots!
 # get YourName.gwdsc/ [contact us!](https://twitter.com/innerinetco)
 
 - vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
