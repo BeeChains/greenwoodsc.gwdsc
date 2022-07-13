@@ -1,2 +1,2 @@
 # greenwoodsc.gwdsc
-Hell Greenwood City and County buissness, get Your Names on .gwdsc/ now!!!
+Hello City and County buissnesses of Greenwood, South Carolina! get YourName.gwdsc/ now!!!
