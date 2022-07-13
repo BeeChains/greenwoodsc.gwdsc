@@ -3,8 +3,9 @@
 | [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) 
 
 # Hello City and County buissnesses of Greenwood, South Carolina! 
-# get YourName.gwdsc/ now!!! 
-- [Greenwood, SC](https://g.co/kgs/usNFZL)
+# get YourName.gwdsc/ [contact us!](https://twitter.com/innerinetco)
+
+- vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=gwdsc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #gwdsc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
