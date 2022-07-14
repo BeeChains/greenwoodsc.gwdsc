@@ -1,6 +1,6 @@
 ## GreenwoodSC.gwdsc/ 
 
-| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/#channel:hnsdeveloper) a chat for use with your domain names
+| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names
 
 # Hello City and County buissnesses of Greenwood, South Carolina! 
 Local buisness starts with local reinvestmensts in and of itself!
