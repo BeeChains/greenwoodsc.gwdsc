@@ -1,6 +1,6 @@
 ## GreenwoodSC.gwdsc/ 
 
-| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names
+| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names | |[hireme.gwdsc/](http://hireme.gwdsc.hns.is/) |
 
 # Hello City and County buissnesses of Greenwood, South Carolina! 
 Local buisness starts with local reinvestmensts in and of itself!
@@ -8,7 +8,8 @@ Local buisness starts with local reinvestmensts in and of itself!
 # get YourName.gwdsc/ [contact us!](https://twitter.com/innerinetco)
 
 - vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
-
+- [domains.gwdsc/](http://domains.gwdsc.hns.is/)
+<div>
 <a href="https://twitter.com/intent/tweet?button_hashtag=gwdsc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #gwdsc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=hns&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #hns</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
