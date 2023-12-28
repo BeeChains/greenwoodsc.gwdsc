@@ -6,8 +6,8 @@
 Own The Internet! This site has zero monthly fees, and we own the top-level domain.
 
 Local buisness starts with local investments!
-# Support Local Roots!
-# get YourName.gwdsc/ [contact us!](https://twitter.com/innerinetco)
+# Support Local Roots! Buy Local & Private Owned Business Domains Available Near Me. 🤝
+# get YourName.gwdsc/ or YourBusiness.gwdsc/ [contact us!](https://twitter.com/innerinetco)
 
 - vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
 - [domains.gwdsc/](http://domains.gwdsc.hns.to/)
