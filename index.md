@@ -1,14 +1,18 @@
 ## GreenwoodSC.gwdsc/ | .gwdsc Support Local Roots of Greenwood, South Carolina
 
-| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names | |[hireme.gwdsc/](http://hireme.gwdsc.hns.is/) |
+| [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names | |[hireme.gwdsc/](http://hireme.gwdsc.hns.to/) |
 
 # Hello City and County buissnesses of Greenwood, South Carolina! 
-Local buisness starts with local reinvestmensts in and of itself!
+Own The Internet! This site has zero monthly fees, and we own the top-level domain.
+
+Local buisness starts with local investments!
 # Support Local Roots!
 # get YourName.gwdsc/ [contact us!](https://twitter.com/innerinetco)
 
 - vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
-- [domains.gwdsc/](http://domains.gwdsc.hns.is/)
+- [domains.gwdsc/](http://domains.gwdsc.hns.to/)
+
+# About [Inner I Net Company](https://innerinetcompany.com/about/)  
 <div>
 <a href="https://twitter.com/intent/tweet?button_hashtag=gwdsc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #gwdsc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
