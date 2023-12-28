@@ -1,4 +1,4 @@
-## GreenwoodSC.gwdsc/ | .gwdsc Support Local Roots of Greenwood, South Carolina
+## GreenwoodSC.gwdsc/ | .gwdsc Support Local Roots of the Internet in Greenwood, South Carolina
 
 | [contact @innerinetco for details](https://twitter.com/innerinetco) | [public chat w/ iinc](https://matrix.to/#/#pub.iinc:matrix.org) | [HNS.CHAT/#channel:hnsdeveloper/](https://hns.chat/id/hnsdeveloper) a chat for use with your domain names | |[hireme.gwdsc/](http://hireme.gwdsc.hns.to/) |
 
