@@ -12,7 +12,7 @@ Local buisness starts with local investments!
 - vistor info [Greenwood, SC](https://g.co/kgs/usNFZL)
 - [domains.gwdsc/](http://domains.gwdsc.hns.to/)
 
-# About [Inner I Net Company](https://innerinetcompany.com/about/)  
+# by [Inner I Net Company](https://innerinetcompany.com/about/)  
 <div>
 <a href="https://twitter.com/intent/tweet?button_hashtag=gwdsc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #gwdsc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
